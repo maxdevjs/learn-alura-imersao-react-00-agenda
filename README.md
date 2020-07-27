@@ -5,7 +5,7 @@ Agenda para [alura.com.br/imersao-react](https://www.alura.com.br/imersao-react)
 .
 <div align="center">
 
-<img src="https://www.alura.com.br/assets/img/imersoes/react/logo-horizontal.1595623271.svg" />
+[<img src="https://www.alura.com.br/assets/img/imersoes/react/logo-horizontal.1595623271.svg" />](https://www.alura.com.br/imersao-react)
 
 | | |
 | :--- | ---: |
@@ -151,6 +151,8 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 #### Conteúdos extras
 
 - [x] [Tire dúvidas ao vivo com Marco Bruno às 18:33 na twitch.tv](twitch.tv/marcobrunodev)
+
+- [ ] [Font Meme](https://fontmeme.com/)
 
 - [x] [DevSoutinho](https://youtube.com/c/DevSoutinho)
 
