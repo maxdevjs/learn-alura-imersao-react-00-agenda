@@ -103,6 +103,8 @@ Você vai aprender a usar a ferramenta Create React App, criar seu primeiro comp
 No final da aula, você vai fazer o deploy da nossa aplicação web e terá o seu site publicado na internet!
 
 [![](http://img.youtube.com/vi/DQ3A2PTpDBU/0.jpg)](http://www.youtube.com/watch?v=DQ3A2PTpDBU "#ImersaoReact Aula 1 - React Components e AluraFlix")
+
+[Vitrine Imersão React Alura](https://github.com/imersao-alura/vitrine-imersao-react)
 </details>
 <!--
 ### Live 03
