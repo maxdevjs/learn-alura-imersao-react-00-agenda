@@ -5,6 +5,8 @@ Agenda para [alura.com.br/imersao-react](https://www.alura.com.br/imersao-react)
 .
 <div align="center">
 
+<img src="https://www.alura.com.br/assets/img/imersoes/react/logo-horizontal.1595623271.svg" />
+
 | | |
 | :--- | ---: |
 **Crie uma aplicação web com React, do zero!** |
@@ -94,7 +96,7 @@ Ouça o podcast sobre
 - [ ] [Aula 1 | React Components e AluraFlix](https://www.alura.com.br/imersao-react/aula01-react-aluraflix?utm_campaign=imersao_react_aula_01)
 
 <details open>
-<summary>Assista a Primeira Aula agora mesmo!</summary>
+<summary>Assista a Primeira Aula agora mesmo! Conteúdo para esta aula</summary>
 <br>
 Na primeira aula, faremos o setup do nosso ambiente deixando o computador configuradinho para trabalhar com React e vamos entender porque essa ferramenta se tornou tão popular entre devs e o mercado de tecnologia.
 
@@ -105,11 +107,68 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 [![](http://img.youtube.com/vi/DQ3A2PTpDBU/0.jpg)](http://www.youtube.com/watch?v=DQ3A2PTpDBU "#ImersaoReact Aula 1 - React Components e AluraFlix")
 
 [Vitrine Imersão React Alura](https://github.com/imersao-alura/vitrine-imersao-react)
+
+#### Projetos da equipe:
+
+[Projeto da Aula](https://aluraflix.imersao-alura.vercel.app/)
+
+[DevSoutinhoflix](http://devsoutinhoflix.com.br/)
+
+#### Links importantes para você acompanhar a aula
+
+- [ ] [Apostila da Imersão React - atualizada diariamente](https://drive.google.com/file/d/1Y6W-rGJgKYek2kRjIqg9Pn-gWPv4KcGO/view?usp=sharing)
+
+- [ ] [Download dos components da Home](https://github.com/imersao-alura/arquivos-extras-imersao-react/raw/master/componentes-extras-aula01.zip)
+
+- [ ] [CSSs que o Mario copia magicamente durante a aula](https://gist.github.com/omariosouto/19dafd5ca155c46b3dcb31df89cfba55)
+
+- [ ] [Pegando projeto do Figma](https://www.youtube.com/watch?v=-TaHyW4nMtg&feature=youtu.be)
+
+- [ ] [Download do layout da AluraFlix](https://drive.google.com/file/d/1ml7tw1x0KLYDUKIIsHu6SRZeFZnnmmV_/view?usp=sharing)
+
+- [ ] [Instale o NodeJS](https://nodejs.org/pt-br/)
+
+- [ ] [Google Fonts](https://fonts.google.com/)
+
+- [ ] [VSCode Styled Coponents - melhora sintaxe do CSS in JS](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+
+#### Links citados nessa aula
+
+- [ ] [Figma - Ferramenta free para design](https://www.figma.com/)
+
+- [ ] [Como o React Funciona? Vamos fazer juntos uma mini implementação do React!](https://www.youtube.com/watch?v=5MzOCxSWrrc)
+
+- [ ] [Dicas de VSCode - Mario Souto (DevSoutinho)](https://www.alura.com.br/artigos/visualstudio-code-instalacao-teclas-de-atalho-plugins-e-integracoes)
+
+- [ ] [Live Share - plugin do VSCode](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
+- [ ] [Visual Studio IntelliCode - plugin do VSCode que ajuda no autocomplete](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+
+- [ ] [Como criar um projeto com React Native - Mario Souto (DevSoutinho)](https://www.youtube.com/watch?v=k1vdmXDgMJI&list=PLTcmLKdIkOWkkBSilAr6iqdnSDXdiiyIq)
+
+- [ ] [O que todo projeto deveria ter? - Mario Souto (DevSoutinho)](https://www.youtube.com/watch?v=yMRSDdifGW8)
+
+#### Conteúdos extras
+
+- [x] [Tire dúvidas ao vivo com Marco Bruno às 18:33 na twitch.tv](twitch.tv/marcobrunodev)
+
+- [x] [DevSoutinho](https://youtube.com/c/DevSoutinho)
+
+- [x] [Telegram do canal DevSoutinho](https://t.me/devsoutinho)
+
+- [ ] [Estilização Imersão React 01 - Estilos globais, reset e Menu](https://www.youtube.com/watch?v=nDxp3YEpR1E&list=PLbcp5RKTX5wNF34qxISyWY6kignmhBQRT)
+
+- [ ] [Juliana Negreiros](https://twitter.com/juunegreiros)
+
+#### Como compartilhar sua própria AluraFlix
+
+- [ ] [Screencastify - Screen Video Recorder](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn)
+
 </details>
 <!--
 ### Live 03
 
-- [ ] [Live 3 | atualizar...](Live 3 ...)
+- [ ] [Imersão React Live #03 - Análise dos desafios propostos em React e fechamento](https://www.youtube.com/watch?v=ol_2pmyPzvI)
 
 <details>
 <summary>Assista a Terceira Live agora mesmo!</summary>
@@ -119,7 +178,7 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 
 ### Live 02
 
-- [ ] [Live 2 | atualizar...](Live 2 ...)
+- [ ] [Imersão React Live #02 - TypeScript no nosso projeto React, com Lucas Santos da Microsoft](https://www.youtube.com/watch?v=SpWFDTvgS9k)
 
 <details>
 <summary>Assista a Segunda Live agora mesmo!</summary>
