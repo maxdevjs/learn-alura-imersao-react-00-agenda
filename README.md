@@ -11,7 +11,7 @@ Agenda para [alura.com.br/imersao-react](https://www.alura.com.br/imersao-react)
 | :--- | ---: |
 **Crie uma aplicação web com React, do zero!** |
 5 aulas exclusivas e inéditas! |
-|<ul><li><span>Totalmente<strong>gratuito<strong></span></li><li><span>De <strong>27</strong> a<strong>31 de julho</strong></span></li><li><span>Crie e coloque no ar <strong>sua aplicação web com React</strong></span></li><li><span>Aviso das aulas no email e Comunidade exclusiva no Discord!</span></li><li><span>Professores incríveis, dá só uma olhada mais pra baixo!</span></li><li><span>Requisitos: conhecimentos em JavaScript </span></li><li><a href="https://docs.google.com/document/d/1y2EOMdlMmquKWLGyGeifY68ueTXi-bhYFBMi4iPqXYc/edit?usp=sharing" target="_blank">Perguntas frequentes</a></li></ul> | [TRAILER](https://www.youtube.com/watch?v=XJ3sr259SDI)
+|<ul><li><span>Totalmente<strong>gratuito<strong></span></li><li><span>De <strong>27</strong> a <strong>31 de julho</strong></span></li><li><span>Crie e coloque no ar <strong>sua aplicação web com React</strong></span></li><li><span>Aviso das aulas no email e Comunidade exclusiva no Discord!</span></li><li><span>Professores incríveis, dá só uma olhada mais pra baixo!</span></li><li><span>Requisitos: conhecimentos em JavaScript </span></li><li><a href="https://docs.google.com/document/d/1y2EOMdlMmquKWLGyGeifY68ueTXi-bhYFBMi4iPqXYc/edit?usp=sharing" target="_blank">Perguntas frequentes</a></li></ul> | [TRAILER](https://www.youtube.com/watch?v=XJ3sr259SDI)
 
 ## Aulas práticas todos os dias
 
