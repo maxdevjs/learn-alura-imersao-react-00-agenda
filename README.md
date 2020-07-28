@@ -79,23 +79,58 @@ Ouça o podcast sobre
 <br>
 ...
 </details>
-
+-->
 ### Aula 02
 
-- [ ] [Aula 2 | atualizar...](https://www.alura.com.br/imersao-react/aula02...)
+- [ ] [Aula 2 | atualizar...](https://www.alura.com.br/imersao-react/aula02-roteamento-state)
 
-<details>
-<summary>Assista a Segunda Aula agora mesmo!</summary>
+<details open>
+<summary>Assista a Segunda Aula agora mesmo! Conteúdo para esta aula</summary>
 <br>
-...
+Nessa aula aprenderemos a lidar com o state do React e entender o que é uma `SPA` (Single Page Application) além de dar mais vida para nossa `home` com mais efeitos visuais como o `carousel` de vídeos.
+
+São poucos os casos que não precisamos da biblioteca `react-router-dom` em projetos feito com `React`, vamos explorar bons detalhes dessa bliblioteca e também aplicar um biblioteca para fazer o nosso carousel na `home` chamada `react-slick`.
+
+#### Conteúdo detalhado dessa aula
+
+- Entender o que é um `SPA`;
+- Utilizaremos a `react-router-dom` para - controlar as rotas;
+- Entender a diferença entre a tag `a` e o component `Link`;
+- Como lidar com caminhos paths que não - existe, famoso `404`;
+- Carousel com a `react-slick`;
+- Criaremos um template com o cabelho e o rodapé;
+- Como deixar sempre o footer embaixo na página;
+- Criação do formulário para casdastrar categoria;
+- E sempre faremos deploy da sua `AluraFlix` na `Vercel`.
+
+#### Desafios dessa aula!
+
+- [ ] Colocar algo legal na página `404` (jogo da `ImersaoGameDev` ou [Flappy Bird do Mario(https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)]);
+
+#### Links importantes para você acompanhar a aula
+
+- [ ] [Apostila com conteúdo desta aula](https://drive.google.com/file/d/1Y6W-rGJgKYek2kRjIqg9Pn-gWPv4KcGO/view?usp=sharing)
+- [ ] [Link com códigos felizes que o Mario preparou](https://gist.github.com/omariosouto/5a3cb806f5be71cfc52909bca0eaa634)
+- [ ] [Como centralizar um elemento na tela - Mario Souto](https://www.youtube.com/watch?v=Cu-HP-gvggg)
+- [ ] [Aprender forEach e map - Mario Souto](https://www.youtube.com/watch?v=JbzcLKiTThk)
+- [ ] [Layout da AluraFlix no Figma](https://www.figma.com/file/rh7zm3wAz3SomVwby1iQYV/AluraFlix?node-id=181%3A10)
+
+#### Links citados nessa aula
+
+- [ ] [Criando Flappy Bird com JavaScript - Mario Souto](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
+- [ ] [Pare de chutar CSS - Marco Bruno](https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x)
+
+#### Conteúdos extras
+
+- [x] [Tire dúvidas ao vivo com Marco Bruno às 18:33 na twitch.tv](twitch.tv/marcobrunodev)
+
 </details>
--->
 
 ### Aula 01
 
-- [x] [Aula 1 | React Components e AluraFlix](https://www.alura.com.br/imersao-react/aula01-react-aluraflix?utm_campaign=imersao_react_aula_01)
+- [x] [Aula 1 | React Components e AluraFlix](https://www.alura.com.br/imersao-react/aula01-react-aluraflix)
 
-<details open>
+<details>
 <summary>Assista a Primeira Aula agora mesmo! Conteúdo para esta aula</summary>
 <br>
 Na primeira aula, faremos o setup do nosso ambiente deixando o computador configuradinho para trabalhar com React e vamos entender porque essa ferramenta se tornou tão popular entre devs e o mercado de tecnologia.
