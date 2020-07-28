@@ -154,6 +154,8 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 
 - [ ] [Font Meme](https://fontmeme.com/)
 
+- [x] [Netflix Font](https://fontmeme.com/netflix-font/)
+
 - [x] [DevSoutinho](https://youtube.com/c/DevSoutinho)
 
 - [x] [Telegram do canal DevSoutinho](https://t.me/devsoutinho)
