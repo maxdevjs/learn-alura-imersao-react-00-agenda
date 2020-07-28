@@ -148,6 +148,8 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 
 - [ ] [O que todo projeto deveria ter? - Mario Souto (DevSoutinho)](https://www.youtube.com/watch?v=yMRSDdifGW8)
 
+- [x] [styled-components](https://styled-components.com/)
+
 #### Conteúdos extras
 
 - [x] [Tire dúvidas ao vivo com Marco Bruno às 18:33 na twitch.tv](twitch.tv/marcobrunodev)
