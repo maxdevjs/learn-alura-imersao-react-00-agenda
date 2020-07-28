@@ -148,7 +148,7 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 
 - [ ] [Como criar um projeto com React Native - Mario Souto (DevSoutinho)](https://www.youtube.com/watch?v=k1vdmXDgMJI&list=PLTcmLKdIkOWkkBSilAr6iqdnSDXdiiyIq)
 
-- [ ] [O que todo projeto deveria ter? - Mario Souto (DevSoutinho)](https://www.youtube.com/watch?v=yMRSDdifGW8)
+- [x] [O que todo projeto deveria ter? - Mario Souto (DevSoutinho)](https://www.youtube.com/watch?v=yMRSDdifGW8)
 
 - [x] [styled-components](https://styled-components.com/)
 
