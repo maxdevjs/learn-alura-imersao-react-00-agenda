@@ -93,7 +93,7 @@ Ouça o podcast sobre
 
 ### Aula 01
 
-- [ ] [Aula 1 | React Components e AluraFlix](https://www.alura.com.br/imersao-react/aula01-react-aluraflix?utm_campaign=imersao_react_aula_01)
+- [x] [Aula 1 | React Components e AluraFlix](https://www.alura.com.br/imersao-react/aula01-react-aluraflix?utm_campaign=imersao_react_aula_01)
 
 <details open>
 <summary>Assista a Primeira Aula agora mesmo! Conteúdo para esta aula</summary>
@@ -106,29 +106,29 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 
 [![](http://img.youtube.com/vi/DQ3A2PTpDBU/0.jpg)](http://www.youtube.com/watch?v=DQ3A2PTpDBU "#ImersaoReact Aula 1 - React Components e AluraFlix")
 
-[Vitrine Imersão React Alura](https://github.com/imersao-alura/vitrine-imersao-react)
+- [ ] [Vitrine Imersão React Alura](https://github.com/imersao-alura/vitrine-imersao-react)
 
 #### Projetos da equipe:
 
-[Projeto da Aula](https://aluraflix.imersao-alura.vercel.app/)
+- [ ] [Projeto da Aula](https://aluraflix.imersao-alura.vercel.app/)
 
-[DevSoutinhoflix](http://devsoutinhoflix.com.br/)
+- [ ] [DevSoutinhoflix](http://devsoutinhoflix.com.br/)
 
 #### Links importantes para você acompanhar a aula
 
 - [ ] [Apostila da Imersão React - atualizada diariamente](https://drive.google.com/file/d/1Y6W-rGJgKYek2kRjIqg9Pn-gWPv4KcGO/view?usp=sharing)
 
-- [ ] [Download dos components da Home](https://github.com/imersao-alura/arquivos-extras-imersao-react/raw/master/componentes-extras-aula01.zip)
+- [x] [Download dos components da Home](https://github.com/imersao-alura/arquivos-extras-imersao-react/raw/master/componentes-extras-aula01.zip)
 
-- [ ] [CSSs que o Mario copia magicamente durante a aula](https://gist.github.com/omariosouto/19dafd5ca155c46b3dcb31df89cfba55)
+- [x] [CSSs que o Mario copia magicamente durante a aula](https://gist.github.com/omariosouto/19dafd5ca155c46b3dcb31df89cfba55)
 
-- [ ] [Pegando projeto do Figma](https://www.youtube.com/watch?v=-TaHyW4nMtg&feature=youtu.be)
+- [x] [Pegando projeto do Figma](https://www.youtube.com/watch?v=-TaHyW4nMtg&feature=youtu.be)
 
-- [ ] [Download do layout da AluraFlix](https://drive.google.com/file/d/1ml7tw1x0KLYDUKIIsHu6SRZeFZnnmmV_/view?usp=sharing)
+- [x] [Download do layout da AluraFlix](https://drive.google.com/file/d/1ml7tw1x0KLYDUKIIsHu6SRZeFZnnmmV_/view?usp=sharing)
 
 - [ ] [Instale o NodeJS](https://nodejs.org/pt-br/)
 
-- [ ] [Google Fonts](https://fonts.google.com/)
+- [x] [Google Fonts](https://fonts.google.com/)
 
 - [ ] [VSCode Styled Coponents - melhora sintaxe do CSS in JS](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 
@@ -154,7 +154,7 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 
 - [x] [Tire dúvidas ao vivo com Marco Bruno às 18:33 na twitch.tv](twitch.tv/marcobrunodev)
 
-- [ ] [Font Meme](https://fontmeme.com/)
+- [x] [Font Meme](https://fontmeme.com/)
 
 - [x] [Netflix Font](https://fontmeme.com/netflix-font/)
 
@@ -164,7 +164,7 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 
 - [ ] [Estilização Imersão React 01 - Estilos globais, reset e Menu](https://www.youtube.com/watch?v=nDxp3YEpR1E&list=PLbcp5RKTX5wNF34qxISyWY6kignmhBQRT)
 
-- [ ] [Juliana Negreiros](https://twitter.com/juunegreiros)
+- [x] [Juliana Negreiros](https://twitter.com/juunegreiros)
 
 #### Como compartilhar sua própria AluraFlix
 
