@@ -110,6 +110,8 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 
 #### Projetos da equipe:
 
+- [x] [Subindo seu projeto na galeria da imersão](https://www.youtube.com/watch?v=4qy23EulMbw&feature=youtu.be)
+
 - [ ] [Projeto da Aula](https://aluraflix.imersao-alura.vercel.app/)
 
 - [ ] [DevSoutinhoflix](http://devsoutinhoflix.com.br/)
