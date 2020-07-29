@@ -225,6 +225,7 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 ...
 </details>
 -->
+
 ### Live 02
 
 - [ ] [Imersão React Live #02 - TypeScript no nosso projeto React, com Lucas Santos da Microsoft](https://www.youtube.com/watch?v=SpWFDTvgS9k)
