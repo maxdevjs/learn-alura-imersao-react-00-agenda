@@ -89,7 +89,7 @@ Ouça o podcast sobre
 <br>
 Nessa aula aprenderemos a lidar com o state do React e entender o que é uma `SPA` (Single Page Application) além de dar mais vida para nossa `home` com mais efeitos visuais como o `carousel` de vídeos.
 
-São poucos os casos que não precisamos da biblioteca [react-router-dom](https://github.com/ReactTraining/react-router) em projetos feito com `React`, vamos explorar bons detalhes dessa bliblioteca e também aplicar um biblioteca para fazer o nosso carousel na `home` chamada `react-slick`.
+São poucos os casos que não precisamos da biblioteca [react-router-dom](https://github.com/ReactTraining/react-router) em projetos feito com `React`, vamos explorar bons detalhes dessa bliblioteca e também aplicar um biblioteca para fazer o nosso carousel na `home` chamada [react-slick](https://github.com/akiran/react-slick).
 
 #### Conteúdo detalhado dessa aula
 
@@ -97,7 +97,7 @@ São poucos os casos que não precisamos da biblioteca [react-router-dom](https:
 - Utilizaremos a [react-router-dom](https://github.com/ReactTraining/react-router) para - controlar as rotas;
 - Entender a diferença entre a tag `a` e o component `Link`;
 - Como lidar com caminhos paths que não - existe, famoso `404`;
-- Carousel com a `react-slick`;
+- Carousel com a [react-slick](https://github.com/akiran/react-slick);
 - Criaremos um template com o cabelho e o rodapé;
 - Como deixar sempre o footer embaixo na página;
 - Criação do formulário para casdastrar categoria;
