@@ -82,7 +82,7 @@ Ouça o podcast sobre
 -->
 ### Aula 02
 
-- [ ] [Roteamento e state](https://www.alura.com.br/imersao-react/aula02-roteamento-state)
+- [x] [Roteamento e state](https://www.alura.com.br/imersao-react/aula02-roteamento-state)
 
 <details open>
 <summary>Assista a Segunda Aula agora mesmo! Conteúdo para esta aula</summary>
@@ -110,10 +110,10 @@ São poucos os casos que não precisamos da biblioteca [react-router-dom](https:
 #### Links importantes para você acompanhar a aula
 
 - [ ] [Apostila com conteúdo desta aula](https://drive.google.com/file/d/1Y6W-rGJgKYek2kRjIqg9Pn-gWPv4KcGO/view?usp=sharing)
-- [ ] [Link com códigos felizes que o Mario preparou](https://gist.github.com/omariosouto/5a3cb806f5be71cfc52909bca0eaa634)
+- [x] [Link com códigos felizes que o Mario preparou](https://gist.github.com/omariosouto/5a3cb806f5be71cfc52909bca0eaa634)
 - [ ] [Como centralizar um elemento na tela - Mario Souto](https://www.youtube.com/watch?v=Cu-HP-gvggg)
 - [ ] [Aprender forEach e map - Mario Souto](https://www.youtube.com/watch?v=JbzcLKiTThk)
-- [ ] [Layout da AluraFlix no Figma](https://www.figma.com/file/rh7zm3wAz3SomVwby1iQYV/AluraFlix?node-id=181%3A10)
+- [x] [Layout da AluraFlix no Figma](https://www.figma.com/file/rh7zm3wAz3SomVwby1iQYV/AluraFlix?node-id=181%3A10)
 
 #### Links citados nessa aula
 
