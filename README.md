@@ -105,7 +105,7 @@ São poucos os casos que não precisamos da biblioteca [react-router-dom](https:
 
 #### Desafios dessa aula!
 
-- [ ] Colocar algo legal na página `404` (jogo da `ImersaoGameDev` ou [Flappy Bird do Mario(https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)]);
+- [ ] Colocar algo legal na página `404` (jogo da `ImersaoGameDev` ou [Flappy Bird do Mario](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej));
 
 #### Links importantes para você acompanhar a aula
 
