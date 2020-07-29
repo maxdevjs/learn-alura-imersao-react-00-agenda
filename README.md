@@ -82,7 +82,7 @@ Ouça o podcast sobre
 -->
 ### Aula 02
 
-- [ ] [Aula 2 | atualizar...](https://www.alura.com.br/imersao-react/aula02-roteamento-state)
+- [ ] [Roteamento e state](https://www.alura.com.br/imersao-react/aula02-roteamento-state)
 
 <details open>
 <summary>Assista a Segunda Aula agora mesmo! Conteúdo para esta aula</summary>
