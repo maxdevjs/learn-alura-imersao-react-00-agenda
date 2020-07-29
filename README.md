@@ -69,22 +69,28 @@ Ouça o podcast sobre
 <br>
 ...
 </details>
-
+-->
 ### Aula 03
 
-- [ ] [Aula 3 | atualizar...](https://www.alura.com.br/imersao-react/aula03...)
+- [ ] [Formulários reutilizáveis e mais components](https://www.alura.com.br/imersao-react/aula03-formularios-componentes)
 
-<details>
-<summary>Assista a Terceira Aula agora mesmo!</summary>
+<details open>
+<summary>Assista a Terceira Aula agora mesmo! Conteúdo para esta aula<</summary>
 <br>
-...
+Nessa aula, nós vamos entender como trabalhar com elementos dinâmicos na tela da nossa aplicação.
+
+#### Links importantes para você acompanhar
+
+- [ ] [Categoria.js e formulário](https://gist.github.com/omariosouto/e04dd020257ff18fdff307ae2b26e00f)
+- [ ] [Código completo da aula 3](https://github.com/omariosouto/lucasflix/tree/live/src)
+
 </details>
--->
+
 ### Aula 02
 
 - [x] [Roteamento e state](https://www.alura.com.br/imersao-react/aula02-roteamento-state)
 
-<details open>
+<details>
 <summary>Assista a Segunda Aula agora mesmo! Conteúdo para esta aula</summary>
 <br>
 Nessa aula aprenderemos a lidar com o state do React e entender o que é uma `SPA` (Single Page Application) além de dar mais vida para nossa `home` com mais efeitos visuais como o `carousel` de vídeos.
@@ -218,7 +224,7 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 <br>
 ...
 </details>
-
+-->
 ### Live 02
 
 - [ ] [Imersão React Live #02 - TypeScript no nosso projeto React, com Lucas Santos da Microsoft](https://www.youtube.com/watch?v=SpWFDTvgS9k)
@@ -226,9 +232,8 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 <details>
 <summary>Assista a Segunda Live agora mesmo!</summary>
 <br>
-...
+Nessa live, vamos um pouco além e aprender como utilizar o TypeScript em nossos projetos com React.
 </details>
--->
 
 ### Live 01
 
