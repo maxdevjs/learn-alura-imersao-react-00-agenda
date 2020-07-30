@@ -84,6 +84,7 @@ Nessa aula, nós vamos entender como trabalhar com elementos dinâmicos na tela 
 - [ ] [Categoria.js e formulário](https://gist.github.com/omariosouto/e04dd020257ff18fdff307ae2b26e00f)
 - [ ] [Código completo da aula 3](https://github.com/omariosouto/lucasflix/tree/live/src)
 - [ ] [Formulários em React com Engenharia Reversa no Formik | DevSoutinho](https://www.youtube.com/watch?v=cMq6k7ymv2s)
+- [ ] [marcobrunodev/firedlabs](https://github.com/marcobrunodev/firedlabs)
 
 </details>
 
