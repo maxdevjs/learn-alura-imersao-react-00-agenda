@@ -59,22 +59,55 @@ Ouça o podcast sobre
 <br>
 ...
 </details>
-
+-->
 ### Aula 04
 
-- [ ] [Aula 4 | atualizar...](https://www.alura.com.br/imersao-react/aula04...)
+- [ ] [Ajax, validação e o back-end](https://www.alura.com.br/imersao-react/aula04-ajax-validacao)
 
-<details>
+<details open>
 <summary>Assista a Quarta Aula agora mesmo!</summary>
 <br>
-...
+Você estava com vontade de ouvir as palavras back-end e fullstack, não é? Bem, tem muitas surpresas nessa aula!
+
+Nós vamos construir um servidor "portátil" e um banco de dados local: nossa aplicação agora vai ficar muito parecido com uma do mundo real.
+
+Além disso, iremos fazer a animação do nosso campo de formulário no estilo Netflix!
+
+#### Conteúdo detalhado dessa aula
+
+- Garantindo padrões de código com EsLint
+- Configurando o nosso servidor portátil com json-server
+
+#### Desafios dessa aula!
+
+- Variar a animação do form com a propriedade transform
+- Tentar cadastrar uma categoria
+
+#### Links importantes para você acompanhar a aula
+
+- [ ] [Components e comandos de apoio](https://gist.github.com/omariosouto/643616a1f923b3350675b643cccb462a)
+- [ ] [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+- [ ] [https://www.npmjs.com/package/eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
+- [ ] [https://github.com/typicode/json-server](https://github.com/typicode/json-server)
+
+#### Como compartilhar sua própria AluraFlix
+
+- [ ] [plugin do Chrome](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn)
+
+#### Desafio extra: API Alura
+
+Ei, a Alura tem diversas APIs. Uma pública e outra para alunos. Que tal criar algo muito bacana e mostrar seus cursos favoritos, ou talvez só os concluídos, além do video da primeira aula? Pode até virar uma ideia de implementação de dashboard extensível na Alura!
+
+- [ ] [API de listagem de cursos e conteúdo](https://suporte.alura.com.br/article/315-como-funciona-a-api-publica-da-alura)
+- [ ] [API dos cursos do aluno](https://suporte.alura.com.br/article/314-beta-api-do-dashboard-para-alunos)
+
 </details>
--->
+
 ### Aula 03
 
 - [x] [Formulários reutilizáveis e mais components](https://www.alura.com.br/imersao-react/aula03-formularios-componentes)
 
-<details open>
+<details>
 <summary>Assista a Terceira Aula agora mesmo! Conteúdo para esta aula<</summary>
 <br>
 Nessa aula, nós vamos entender como trabalhar com elementos dinâmicos na tela da nossa aplicação.
