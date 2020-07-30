@@ -72,7 +72,7 @@ Ouça o podcast sobre
 -->
 ### Aula 03
 
-- [ ] [Formulários reutilizáveis e mais components](https://www.alura.com.br/imersao-react/aula03-formularios-componentes)
+- [x] [Formulários reutilizáveis e mais components](https://www.alura.com.br/imersao-react/aula03-formularios-componentes)
 
 <details open>
 <summary>Assista a Terceira Aula agora mesmo! Conteúdo para esta aula<</summary>
@@ -81,10 +81,10 @@ Nessa aula, nós vamos entender como trabalhar com elementos dinâmicos na tela 
 
 #### Links importantes para você acompanhar
 
-- [ ] [Categoria.js e formulário](https://gist.github.com/omariosouto/e04dd020257ff18fdff307ae2b26e00f)
-- [ ] [Código completo da aula 3](https://github.com/omariosouto/lucasflix/tree/live/src)
+- [x] [Categoria.js e formulário](https://gist.github.com/omariosouto/e04dd020257ff18fdff307ae2b26e00f)
+- [x] [Código completo da aula 3](https://github.com/omariosouto/lucasflix/tree/live/src)
 - [ ] [Formulários em React com Engenharia Reversa no Formik | DevSoutinho](https://www.youtube.com/watch?v=cMq6k7ymv2s)
-- [ ] [marcobrunodev/firedlabs](https://github.com/marcobrunodev/firedlabs)
+- [x] [marcobrunodev/firedlabs](https://github.com/marcobrunodev/firedlabs)
 
 </details>
 
@@ -230,7 +230,7 @@ No final da aula, você vai fazer o deploy da nossa aplicação web e terá o se
 
 ### Live 02
 
-- [ ] [Imersão React Live #02 - TypeScript no nosso projeto React, com Lucas Santos da Microsoft](https://www.youtube.com/watch?v=SpWFDTvgS9k)
+- [x] [Imersão React Live #02 - TypeScript no nosso projeto React, com Lucas Santos da Microsoft](https://www.youtube.com/watch?v=SpWFDTvgS9k)
 
 <details>
 <summary>Assista a Segunda Live agora mesmo!</summary>
