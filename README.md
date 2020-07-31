@@ -131,7 +131,7 @@ $ curl -X POST -H "Content-Type: application/json" -d '{
 	"cor": "6BD1FF",
 	"link_extra": {
     "text": "Nasa Docet",
-    "url": "https://nasa.com"
+    "url": "https://www.nasa.gov/"
   }
 }' "http://localhost:8080/categorias"
 ```
