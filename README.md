@@ -121,6 +121,21 @@ Ei, a Alura tem diversas APIs. Uma pública e outra para alunos. Que tal criar a
 - [ ] [API de listagem de cursos e conteúdo](https://suporte.alura.com.br/article/315-como-funciona-a-api-publica-da-alura)
 - [ ] [API dos cursos do aluno](https://suporte.alura.com.br/article/314-beta-api-do-dashboard-para-alunos)
 
+##### Cadastro
+
+Via terminal: 
+
+```sh
+$ curl -X POST -H "Content-Type: application/json" -d '{
+	"titulo": "Nasa",
+	"cor": "6BD1FF",
+	"link_extra": {
+    "text": "Nasa Docet",
+    "url": "https://nasa.com"
+  }
+}' "http://localhost:8080/categorias"
+```
+
 </details>
 
 ### Aula 03
