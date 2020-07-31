@@ -49,22 +49,41 @@ Ouça o podcast sobre
 </div>
 
 ## Recursos
-<!--
+
 ### Aula 05
 
-- [ ] [Aula 5 | atualizar...](https://www.alura.com.br/imersao-react/aula05...)
+- [ ] [Gerenciamento de videos com React e JavaScript](https://www.alura.com.br/imersao-react/aula05-gerenciamendo-videos)
 
-<details>
+<details open>
 <summary>Assista a Quinta Aula agora mesmo!</summary>
 <br>
-...
+Pra fechar nosso projeto, vamos implementar a funcionalidade que tornará possível o cadastro de novos vídeos! E ver como atualizar a nossa home dinamicamente de acordo com o que for cadastrado :)
+
+#### Desafios
+
+- Implementar a funcionalidade de edição e de exclusão também!
+
+#### Conteúdo detalhado dessa aula
+
+- Cadastro de vídeos
+- Reuso para reuso de lógicas de state
+- Deixando a Home dinâmica
+- Fazendo as categorias aparecerem
+- Cadastrando vídeos
+
+#### Links importantes para você acompanhar
+
+- [ ] [Códigos importantes!](https://gist.github.com/omariosouto/710e1627703647c311d511f07a5aa611)
+- [ ] [Como fazer validação com React](https://youtu.be/-nYNd6EuZHU)
+- [ ] [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
+
 </details>
--->
+
 ### Aula 04
 
 - [x] [Ajax, validação e o back-end](https://www.alura.com.br/imersao-react/aula04-ajax-validacao)
 
-<details open>
+<details>
 <summary>Assista a Quarta Aula agora mesmo!</summary>
 <br>
 Você estava com vontade de ouvir as palavras back-end e fullstack, não é? Bem, tem muitas surpresas nessa aula!
