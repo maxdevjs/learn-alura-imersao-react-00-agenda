@@ -62,7 +62,7 @@ Ouça o podcast sobre
 -->
 ### Aula 04
 
-- [ ] [Ajax, validação e o back-end](https://www.alura.com.br/imersao-react/aula04-ajax-validacao)
+- [x] [Ajax, validação e o back-end](https://www.alura.com.br/imersao-react/aula04-ajax-validacao)
 
 <details open>
 <summary>Assista a Quarta Aula agora mesmo!</summary>
@@ -85,10 +85,11 @@ Além disso, iremos fazer a animação do nosso campo de formulário no estilo N
 
 #### Links importantes para você acompanhar a aula
 
-- [ ] [Components e comandos de apoio](https://gist.github.com/omariosouto/643616a1f923b3350675b643cccb462a)
+- [x] [Components e comandos de apoio](https://gist.github.com/omariosouto/643616a1f923b3350675b643cccb462a)
 - [ ] [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 - [ ] [https://www.npmjs.com/package/eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
-- [ ] [https://github.com/typicode/json-server](https://github.com/typicode/json-server)
+- [x] [https://github.com/typicode/json-server](https://github.com/typicode/json-server)
+- [x] [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
 
 #### Como compartilhar sua própria AluraFlix
 
