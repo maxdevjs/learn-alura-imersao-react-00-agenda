@@ -77,6 +77,10 @@ Pra fechar nosso projeto, vamos implementar a funcionalidade que tornará possí
 - [ ] [Como fazer validação com React](https://youtu.be/-nYNd6EuZHU)
 - [ ] [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
 
+Embed dos videos
+
+[http://localhost:8080/categorias?_embed=videos](http://localhost:8080/categorias?_embed=videos)
+
 </details>
 
 ### Aula 04
