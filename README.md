@@ -136,6 +136,47 @@ $ curl -X POST -H "Content-Type: application/json" -d '{
 }' "http://localhost:8080/categorias"
 ```
 
+
+Uploading JSON data [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
+```js
+const handleSubmit = (e) => {
+    e.preventDefault();
+
+    const dataToSend = {
+      titulo: values.titulo,
+      cor: values.cor,
+      link_extra: {
+        text: values.description,
+        url: values.url,
+      },
+    };
+
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'heroku or whatever';
+    fetch(URL, {
+      method: 'POST', // or 'PUT'
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(dataToSend),
+    })
+      .then((response) => response.json())
+      .then((data) => {
+        console.log('Success:', data);
+      })
+      .catch((error) => {
+        console.error('Error:', error);
+      });
+    setCategorias([
+      ...categorias,
+      values,
+    ]);
+  };
+
+```
+
 </details>
 
 ### Aula 03
