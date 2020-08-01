@@ -81,6 +81,19 @@ Embed dos videos
 
 [http://localhost:8080/categorias?_embed=videos](http://localhost:8080/categorias?_embed=videos)
 
+#### Delete
+
+Via terminal:
+
+```sh
+$ curl -X DELETE "http://localhost:8080/categorias/6"
+```
+
+Via app:
+
+```js
+
+```
 </details>
 
 ### Aula 04
@@ -140,8 +153,7 @@ $ curl -X POST -H "Content-Type: application/json" -d '{
 }' "http://localhost:8080/categorias"
 ```
 
-
-Uploading JSON data [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+Via app:
 
 ```js
 const handleSubmit = (e) => {
@@ -180,6 +192,8 @@ const handleSubmit = (e) => {
   };
 
 ```
+
+Uploading JSON data [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 </details>
 
